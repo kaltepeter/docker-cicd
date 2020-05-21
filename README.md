@@ -1,2 +1,3 @@
 # docker-cicd
-docker-cicd monorepo for cicd docker images
+
+Monorepo for CI/CD docker images
